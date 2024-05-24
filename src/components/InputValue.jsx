@@ -5,9 +5,6 @@ const typeNames = {
     p: 'Prozentsatz'
 };
 
-const NumberInput = () => {
-  const [value, setValue] = useState('');
-
  
 
 const handleChange = (e) => {
