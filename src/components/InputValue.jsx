@@ -5,8 +5,6 @@ const typeNames = {
     p: 'Prozentsatz'
 };
 
- 
-
 const handleChange = (e) => {
   onValueChange(e.target.value);
 };
